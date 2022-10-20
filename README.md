@@ -18,7 +18,8 @@ For this analysis, one of fifty datasets was selected to conduct an initial anal
 * Count of Total Votes equal or greater than 20. 
 * Percent of Helpful Votes to Total Votes equal or greater than 50%. 
 
-INSERT PERCENTAGE_VOTES.PNG
+![
+](https://github.com/jbowman86/Amazon_Vine_Analysis/blob/eb483bd71d2ea7ecefc73b560408ba29e01b57ba/Images/Percentage_Vote.PNG)
 
 The results reduced the total number of reviews from 3M to 50.7K. The filtered dataset was used to answer the following questions:
 
