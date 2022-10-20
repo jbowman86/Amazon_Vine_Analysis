@@ -27,11 +27,14 @@ The results reduced the total number of reviews from 3M to 50.7K. The filtered d
 
 * Vine members made up only 2.1% (1,080) of the reviews whereas the remaining 97.9% were Non-Vine members (49,659).
 
-INSERT VINE_NonVINE_TOTAL.PNG
+![
+](https://github.com/jbowman86/Amazon_Vine_Analysis/blob/cf0453014a8eee9a1c81545dce147c7af5eacf49/Images/Vine_NonVine_Total.png)
 
-INSERT VINE_TOTAL_REVIEWS.PNG
+![
+](https://github.com/jbowman86/Amazon_Vine_Analysis/blob/cf0453014a8eee9a1c81545dce147c7af5eacf49/Images/Vine_Total_Reviews.png)
 
-INSERT NON_VINE_TOTAL_REVIEW.PNG
+![
+](https://github.com/jbowman86/Amazon_Vine_Analysis/blob/cf0453014a8eee9a1c81545dce147c7af5eacf49/Images/Non_Vine_Total_Reviews.png)
 
 **2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
 
@@ -47,7 +50,7 @@ INSERT NON_VINE_TOTAL_REVIEW.PNG
 
 Based on the results, Vine members did not show bias when rating their products considering that the number of 5-star ratings was about 10% less than Non-Vine members (42% vs. 46.4%). With this, it can be assumed that Vine customers are more critical when completing their reviews. However, in order to support this assumption further, the analysis should be completed including all of the data rather than filtering it to a percentage of helpful vs. total votes as was done for the current study.  Reviewing the unfiltered dataset provides more information and supplies further support for our assumptions.  The results of this preliminary analysis is shown below. 
 
-INSERT Non_Filtered_Total.PNG
+![](https://github.com/jbowman86/Amazon_Vine_Analysis/blob/cf0453014a8eee9a1c81545dce147c7af5eacf49/Images/Non_Filtered_Total.png)
 
 In addition, running the same analysis using datasets from different product categories can provide us with a greater understanding of whether reviews made by Vine members are biased.
 
