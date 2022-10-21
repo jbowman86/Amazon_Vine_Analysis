@@ -43,7 +43,7 @@ The results reduced the total number of reviews from 3M to 50.7K. The filtered d
 
 **3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
-* 42% of the reviews for Vine members were rated 5 stars.
+* 42.0% of the reviews for Vine members were rated 5 stars.
 * 46.4% of the reviews for Non-Vine members were rated 5 stars.
 
 ## Summary
